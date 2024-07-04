@@ -39,7 +39,7 @@
 31    <application
 32        android:name="android.app.Application"
 33        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-33-->[androidx.core:core:1.6.0] C:\Users\Fredd\.gradle\caches\transforms-3\284a410c767ad6c7a2b0ffc8d8d85981\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+33-->[androidx.core:core:1.6.0] C:\Users\Fredd\.gradle\caches\8.9-rc-1\transforms\ceff019a532e871f5dc501911f57744b\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
 34        android:debuggable="true"
 35        android:icon="@mipmap/ic_launcher"
 36        android:label="appecolac" >
@@ -78,17 +78,17 @@
 69            android:value="2" />
 70
 71        <uses-library
-71-->[androidx.window:window:1.0.0-beta04] C:\Users\Fredd\.gradle\caches\transforms-3\f302e75fb7efd781bcf1a29281c188da\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+71-->[androidx.window:window:1.0.0-beta04] C:\Users\Fredd\.gradle\caches\8.9-rc-1\transforms\9341123ef49a25b81da5cf991cde22cd\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
 72            android:name="androidx.window.extensions"
-72-->[androidx.window:window:1.0.0-beta04] C:\Users\Fredd\.gradle\caches\transforms-3\f302e75fb7efd781bcf1a29281c188da\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+72-->[androidx.window:window:1.0.0-beta04] C:\Users\Fredd\.gradle\caches\8.9-rc-1\transforms\9341123ef49a25b81da5cf991cde22cd\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
 73            android:required="false" />
-73-->[androidx.window:window:1.0.0-beta04] C:\Users\Fredd\.gradle\caches\transforms-3\f302e75fb7efd781bcf1a29281c188da\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+73-->[androidx.window:window:1.0.0-beta04] C:\Users\Fredd\.gradle\caches\8.9-rc-1\transforms\9341123ef49a25b81da5cf991cde22cd\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
 74        <uses-library
-74-->[androidx.window:window:1.0.0-beta04] C:\Users\Fredd\.gradle\caches\transforms-3\f302e75fb7efd781bcf1a29281c188da\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+74-->[androidx.window:window:1.0.0-beta04] C:\Users\Fredd\.gradle\caches\8.9-rc-1\transforms\9341123ef49a25b81da5cf991cde22cd\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
 75            android:name="androidx.window.sidecar"
-75-->[androidx.window:window:1.0.0-beta04] C:\Users\Fredd\.gradle\caches\transforms-3\f302e75fb7efd781bcf1a29281c188da\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+75-->[androidx.window:window:1.0.0-beta04] C:\Users\Fredd\.gradle\caches\8.9-rc-1\transforms\9341123ef49a25b81da5cf991cde22cd\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
 76            android:required="false" />
-76-->[androidx.window:window:1.0.0-beta04] C:\Users\Fredd\.gradle\caches\transforms-3\f302e75fb7efd781bcf1a29281c188da\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+76-->[androidx.window:window:1.0.0-beta04] C:\Users\Fredd\.gradle\caches\8.9-rc-1\transforms\9341123ef49a25b81da5cf991cde22cd\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
 77    </application>
 78
 79</manifest>

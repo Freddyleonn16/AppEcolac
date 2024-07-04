@@ -59,6 +59,11 @@ flutter:
 
   assets:
     - "assets/images/LogoEcolac.jpg"
+    - "assets/images/SubtractFondoInferior.png"
+    - "assets/images/LogoBlanco.png"
+    - "assets/images/QuejasIcono.png"
+    - "assets/images/ReclamosIcono.png"
+    - "assets/images/SugerenciaIcono.png"
 
   # To add assets to your application, add an assets section, like this:
   # assets:

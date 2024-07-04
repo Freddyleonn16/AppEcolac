@@ -1,1 +1,0 @@
- C:\\Users\\Fredd\\Escritorio\\Flutter\\Trabajos\\appecolac\\.dart_tool\\flutter_build\\d9a1a847f963fdcacf751456361c47ff\\native_assets.yaml: 

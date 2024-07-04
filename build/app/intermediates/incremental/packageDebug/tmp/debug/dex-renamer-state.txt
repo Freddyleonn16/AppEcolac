@@ -1,4 +1,4 @@
-#Mon Jun 24 01:04:00 ECT 2024
+#Mon Jul 01 10:13:37 ECT 2024
 base.0=C\:\\Users\\Fredd\\Escritorio\\Flutter\\Trabajos\\appecolac\\build\\app\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 base.1=C\:\\Users\\Fredd\\Escritorio\\Flutter\\Trabajos\\appecolac\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
 base.2=C\:\\Users\\Fredd\\Escritorio\\Flutter\\Trabajos\\appecolac\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\13\\classes.dex
